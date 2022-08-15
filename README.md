@@ -1,4 +1,8 @@
-### Olá, eu sou Lucas! 🤚
+## Olá, eu sou Lucas! 🤚
+
+#### Desenvolvedor júnior Back-End.
+
+#### Pode entrar em contato comigo através do Linkedln, irei responder o mais rápido possível. 😄
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-80033b229/)
 
