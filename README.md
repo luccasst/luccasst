@@ -29,6 +29,4 @@
 </div>
 </div>
 
-<b>Projetos de Orgulho</b>
 
-<div width="100%" align="center"><a href="https://github.com/luccasst/project-app-de-receitas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luccasst&repo=receitas-app&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/luccasst/project-store-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luccasst&repo=project-store-manager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
