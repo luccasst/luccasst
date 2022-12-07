@@ -19,7 +19,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  
 </div>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=gruvbox)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 <div align="center">
   <div align='center'>
