@@ -6,9 +6,6 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-80033b229/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasst&langs_count=8&theme=vision-friendly-dark&hide_border=true">
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -21,3 +18,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  
 </div>
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasst&langs_count=8&theme=vision-friendly-dark&hide_border=true">
