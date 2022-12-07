@@ -20,10 +20,10 @@
 </div>
 <div
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
+</div>
 <div align="center">
   <div align='center'>
   <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasst&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 </div>
 </div>
-</div>
+
