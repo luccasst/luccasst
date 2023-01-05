@@ -18,13 +18,6 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://avatars3.githubusercontent.com/u/3591786?s=400&v=4" width="36" height="36" alt="Sequelize" /></a>
 
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-
-<div align="center">
-  <div align='center'>
-  <img align="left" height="414px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasst&langs_count=8&theme=vision-friendly-dark&hide_border=true">
-</div>
-</div>
 
 
