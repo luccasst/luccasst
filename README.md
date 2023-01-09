@@ -18,7 +18,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://avatars3.githubusercontent.com/u/3591786?s=400&v=4" width="36" height="36" alt="Sequelize" /></a>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=dracula)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=radical)
 
 
 
