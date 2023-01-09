@@ -18,7 +18,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://avatars3.githubusercontent.com/u/3591786?s=400&v=4" width="36" height="36" alt="Sequelize" /></a>
 
-<a href="https://github.com/luccasst"><img src="https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&hide=stars,issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="luccasst's GitHub stats" /></a>
+<div align="center">
+  <a href="https://github.com/luccasst">
+  <img height="200em" src="https://stats.luccasst.com/api?username=luccasst&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://stats.luccasst.com/api/top-langs/?username=luccasst&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
