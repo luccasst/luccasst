@@ -19,9 +19,7 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://avatars3.githubusercontent.com/u/3591786?s=400&v=4" width="36" height="36" alt="Sequelize" /></a>
 
 <div align="center">
-  <a href="https://github.com/luccasst">
-  <img height="200em" src="https://stats.luccasst.com/api?username=luccasst&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://stats.luccasst.com/api/top-langs/?username=luccasst&layout=compact&langs_count=7&theme=dark"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=radical)
 </div>
 
 
