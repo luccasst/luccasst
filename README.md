@@ -19,6 +19,8 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://avatars3.githubusercontent.com/u/3591786?s=400&v=4" width="36" height="36" alt="Sequelize" /></a>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasst&show_icons=true&theme=radical)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasst)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
