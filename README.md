@@ -1,6 +1,6 @@
 ## Olá, eu sou Lucas! 🤚
 
-#### Desenvolvedor Full-Stack Jr.
+#### Desenvolvedor Full-Stack.
 
 #### Pode entrar em contato comigo através do Linkedln, irei responder o mais rápido possível. 😄
 
